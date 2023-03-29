@@ -46,7 +46,8 @@ body {
     font-family: 'NanumBarunGothic';
     font-weight: 400;
    /*  background-color: azure; */
-    min-width: 1920px;
+    min-width: 1920px; 
+    /* 작은 화면에서 min-width의 값이 1920px으로 보여짐 */
 }
 h5 {
     width: 1920px;
